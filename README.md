@@ -58,4 +58,20 @@ If an IP produces 3 or more failed login attempts, it is flagged as suspicious.
 ---
 
 ## 📸 Screenshots
-(Will insert below)
+### Permission Denied Before Using sudo
+![Permission Denied](Simulate_Failed_Login_Attempts.png)
+
+### Successful Log Access with sudo
+![Log Access](Successful_sudo_access.png)
+
+### Failed Password Entries
+![Failed Password](Failed_password_entries.png)
+
+### IP Extraction Output
+![IP Extraction](Correct_awk_IP_extraction.png)
+
+### Script Execution
+![Script Execution](Script_creation.png)
+
+### Generated Security Report
+![Security Report](Final_generated_report.png)
